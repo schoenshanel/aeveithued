@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deerah.2before11.com/sitemap.xml
